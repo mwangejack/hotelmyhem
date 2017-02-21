@@ -1,0 +1,45 @@
+.container{
+	padding:10px;
+	margin-top: 10px;
+	border-radius: 6px;
+	width:800px;
+	background-color:#66cdaa;
+	border:solid 2px #66cdaa;"
+}
+.well{
+	background-color:#afeeee;
+	border:solid 2px #66cdaa;"
+}
+input{
+	width:70%;
+	border:solid 2px #66cdaa;
+	height: 35px;
+	border-radius: 6px;
+}
+#myrow ul li {
+	padding:10px;
+	font-weight: lighter;
+	overflow:auto;
+	background-color: #66cdaa;
+}
+#myrow ul li a:hover{
+	background-color: #66cdaa;
+}
+#col {
+	height: 100%;
+	border-left:solid 2px #66cdaa;
+	border-top:solid 2px #66cdaa;
+
+}
+label {
+	font-family:fantasy;
+}
+#hotelimage{
+	width:200px;
+	height:200px;
+
+}
+#hotelgroup{
+	margin-left: 20px;
+
+}
